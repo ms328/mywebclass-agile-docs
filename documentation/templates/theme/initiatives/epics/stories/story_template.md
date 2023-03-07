@@ -1,17 +1,5 @@
-"As a [user role], I want to [do something] so that [achieve a specific goal]."
+As a content creator, I want to schedule posts in advance so that I can have a consistent posting schedule and save time."
 
-By following this template, you can create user stories that are structured and easy to understand. To make the user story even more effective, you can add acceptance criteria that specify the requirements that must be met to consider the user story complete. Here's an example of a user story with acceptance criteria:
+Acceptance Criteria: The scheduling feature is accessible from the content creation interface. The user can select the date and time for each scheduled post. The user can schedule multiple posts at once. The scheduled posts are saved in a calendar or list format. The user receives a notification when a scheduled post is published. The user can edit or delete scheduled posts as needed.
 
-"As a customer, I want to view my order history so that I can track my past purchases."
-
-Acceptance Criteria:
-
-The order history page displays a list of all past orders, including the date, order number, and total cost.
-Each order in the list is clickable and leads to a detailed view of the order.
-The detailed view of the order includes the list of items purchased, the quantities, the prices, and any discounts applied.
-The order history page can be accessed from the customer account dashboard.
-The order history page is only accessible to authenticated customers.
-
-
-# List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+List Stories related to this theme Create a scheduling interface (documentation/templates/theme/initiatives/epics/stories/tasks/create_scheduling_interface.md) Implement date and time selection (documentation/templates/theme/initiatives/epics/stories/tasks/implement_date_time_selection.md) Allow for batch scheduling (documentation/templates/theme/initiatives/epics/stories/tasks/allow_batch_scheduling.md) Create a calendar or list view (documentation/templates/theme/initiatives/epics/stories/tasks/create_calendar_view.md) Implement notification system (documentation/templates/theme/initiatives/epics/stories/tasks/implement_notification_system.md) Add edit and delete functionality (documentation/templates/theme/initiatives/epics/stories/tasks/add_edit_delete_functionality.md)
